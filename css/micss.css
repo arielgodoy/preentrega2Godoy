@@ -1,4 +1,10 @@
-/*HEADER-NAV*/
+
+#destacada {
+    background-color: rgb(203, 201, 219);
+    border: 1px solid black;
+  }
+
+
 footer .logo img {
     width: 25%;
     height: 25%;        
